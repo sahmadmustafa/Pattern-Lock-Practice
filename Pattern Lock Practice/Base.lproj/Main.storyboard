@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="WS8-yc-rAX">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Pattern Lock Practice-->
+        <scene sceneID="cP1-W0-5Im">
+            <objects>
+                <viewController storyboardIdentifier="ViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="WBZ-II-7o5" customClass="ViewController" customModule="Pattern_Lock_Practice" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="dSa-ex-3oR">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="preview-141192-Mi0B7jCQQ8-high_0001.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="72Q-mc-F0r">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="375" id="YvR-o3-Ta7"/>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="667" id="gnG-hc-TK9"/>
+                                    <constraint firstAttribute="height" constant="667" id="rzo-0b-3Rj"/>
+                                    <constraint firstAttribute="width" constant="375" id="vsB-Bl-q26"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="72Q-mc-F0r" firstAttribute="top" secondItem="dSa-ex-3oR" secondAttribute="top" id="14D-2z-DVU"/>
+                            <constraint firstItem="72Q-mc-F0r" firstAttribute="top" secondItem="dSa-ex-3oR" secondAttribute="top" id="Dw4-P8-y2Z"/>
+                            <constraint firstItem="72Q-mc-F0r" firstAttribute="bottom" secondItem="ZJM-8p-GAT" secondAttribute="bottom" id="JlR-do-a17"/>
+                            <constraint firstItem="72Q-mc-F0r" firstAttribute="leading" secondItem="ZJM-8p-GAT" secondAttribute="leading" id="QzQ-33-Xfj"/>
+                            <constraint firstItem="72Q-mc-F0r" firstAttribute="leading" secondItem="ZJM-8p-GAT" secondAttribute="leading" id="cZc-uj-wVt"/>
+                            <constraint firstItem="72Q-mc-F0r" firstAttribute="trailing" secondItem="ZJM-8p-GAT" secondAttribute="trailing" id="dhp-1m-C4h"/>
+                            <constraint firstItem="72Q-mc-F0r" firstAttribute="bottom" secondItem="ZJM-8p-GAT" secondAttribute="bottom" id="iOR-Ka-5v9"/>
+                            <constraint firstItem="72Q-mc-F0r" firstAttribute="trailing" secondItem="ZJM-8p-GAT" secondAttribute="trailing" id="omU-4L-8fb"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="ZJM-8p-GAT"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Pattern Lock Practice" id="Im8-48-cQg">
+                        <barButtonItem key="rightBarButtonItem" image="qqq" id="Whi-WT-caY">
+                            <connections>
+                                <action selector="StartAgain:" destination="WBZ-II-7o5" id="wFy-kV-IPP"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2Xj-p3-A5C" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2023.2" y="942.27886056971522"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="gaL-4K-h7V">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="WS8-yc-rAX" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="cO0-cZ-pYD">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="WBZ-II-7o5" kind="relationship" relationship="rootViewController" id="9IE-kz-ygZ"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="r3p-FH-pdl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1084" y="942.27886056971522"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="preview-141192-Mi0B7jCQQ8-high_0001.jpg" width="1280" height="720"/>
+        <image name="qqq" width="25" height="25"/>
+    </resources>
+</document>
