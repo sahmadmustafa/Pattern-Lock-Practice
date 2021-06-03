@@ -3,7 +3,7 @@
 //  Pattern Lock PracticeTests
 //
 //  Created by Apple on 2/14/20.
-//  Copyright © 2020 Xrays. All rights reserved.
+//  Copyright © 2020 Ahmad Mustafa. All rights reserved.
 //
 
 import XCTest
