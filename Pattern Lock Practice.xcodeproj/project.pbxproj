@@ -23,19 +23,6 @@
 		1881754823F73B39009871F6 /* FTToastIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1881754123F73B38009871F6 /* FTToastIndicator.m */; };
 		1881754923F73B39009871F6 /* FTIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1881754423F73B39009871F6 /* FTIndicator.m */; };
 		1881754B23F75507009871F6 /* Screen Shot 2020-02-15 at 3.12.08 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881754A23F75506009871F6 /* Screen Shot 2020-02-15 at 3.12.08 AM.png */; };
-		1881755A23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.46.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881754D23F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.46.png */; };
-		1881755B23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.16.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881754E23F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.16.png */; };
-		1881755C23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.30.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881754F23F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.30.png */; };
-		1881755D23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.49.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755023F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.49.png */; };
-		1881755E23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.13.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755123F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.13.png */; };
-		1881755F23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.50.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755223F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.50.png */; };
-		1881756023F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.41.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755323F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.41.png */; };
-		1881756123F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755423F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.02.png */; };
-		1881756223F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.10.51.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755523F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.10.51.png */; };
-		1881756323F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.32.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755623F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.32.png */; };
-		1881756423F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.11.00.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755723F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.11.00.png */; };
-		1881756523F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.30.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755823F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.30.png */; };
-		1881756623F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.48.png in Resources */ = {isa = PBXBuildFile; fileRef = 1881755923F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.48.png */; };
 		18970C2E2669859400B1122E /* AnimationViewInitializers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18970B822669859300B1122E /* AnimationViewInitializers.swift */; };
 		18970C2F2669859400B1122E /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18970B832669859300B1122E /* AnimationView.swift */; };
 		18970C302669859400B1122E /* AnimationPublic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18970B842669859300B1122E /* AnimationPublic.swift */; };
@@ -213,19 +200,6 @@
 		1881754323F73B38009871F6 /* FTIndicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FTIndicator.h; sourceTree = "<group>"; };
 		1881754423F73B39009871F6 /* FTIndicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FTIndicator.m; sourceTree = "<group>"; };
 		1881754A23F75506009871F6 /* Screen Shot 2020-02-15 at 3.12.08 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2020-02-15 at 3.12.08 AM.png"; sourceTree = "<group>"; };
-		1881754D23F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.46.png"; sourceTree = "<group>"; };
-		1881754E23F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.16.png"; sourceTree = "<group>"; };
-		1881754F23F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.30.png"; sourceTree = "<group>"; };
-		1881755023F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.49.png"; sourceTree = "<group>"; };
-		1881755123F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.13.png"; sourceTree = "<group>"; };
-		1881755223F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.50.png"; sourceTree = "<group>"; };
-		1881755323F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.41.png"; sourceTree = "<group>"; };
-		1881755423F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.02.png"; sourceTree = "<group>"; };
-		1881755523F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.10.51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.10.51.png"; sourceTree = "<group>"; };
-		1881755623F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.32.png"; sourceTree = "<group>"; };
-		1881755723F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.11.00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.11.00.png"; sourceTree = "<group>"; };
-		1881755823F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.30.png"; sourceTree = "<group>"; };
-		1881755923F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.48.png"; sourceTree = "<group>"; };
 		18970B822669859300B1122E /* AnimationViewInitializers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationViewInitializers.swift; sourceTree = "<group>"; };
 		18970B832669859300B1122E /* AnimationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
 		18970B842669859300B1122E /* AnimationPublic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationPublic.swift; sourceTree = "<group>"; };
@@ -485,19 +459,6 @@
 			isa = PBXGroup;
 			children = (
 				18970B7F2669859300B1122E /* src */,
-				1881754D23F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.46.png */,
-				1881754E23F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.16.png */,
-				1881754F23F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.30.png */,
-				1881755023F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.49.png */,
-				1881755123F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.13.png */,
-				1881755223F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.50.png */,
-				1881755323F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.41.png */,
-				1881755423F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.02.png */,
-				1881755523F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.10.51.png */,
-				1881755623F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.32.png */,
-				1881755723F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.11.00.png */,
-				1881755823F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.30.png */,
-				1881755923F75F16009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.48.png */,
 			);
 			path = "Asset 007";
 			sourceTree = "<group>";
@@ -1097,24 +1058,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				1881750C23F7258F009871F6 /* LaunchScreen.storyboard in Resources */,
-				1881755B23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.16.png in Resources */,
-				1881756223F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.10.51.png in Resources */,
-				1881756523F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.30.png in Resources */,
-				1881755A23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.46.png in Resources */,
-				1881755C23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.30.png in Resources */,
-				1881756323F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.32.png in Resources */,
 				1881754523F73B39009871F6 /* FTProgressIndicator.bundle in Resources */,
-				1881755D23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.49.png in Resources */,
-				1881756623F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.48.png in Resources */,
 				1881754B23F75507009871F6 /* Screen Shot 2020-02-15 at 3.12.08 AM.png in Resources */,
-				1881756423F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 03.11.00.png in Resources */,
 				1881750923F7258F009871F6 /* Assets.xcassets in Resources */,
 				1881750723F72583009871F6 /* Main.storyboard in Resources */,
-				1881755E23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.13.png in Resources */,
 				1881753623F72649009871F6 /* preview-141192-Mi0B7jCQQ8-high_0001.jpg in Resources */,
-				1881756023F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.00.41.png in Resources */,
-				1881755F23F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.02.50.png in Resources */,
-				1881756123F75F17009871F6 /* Simulator Screen Shot - iPhone XS Max - 2020-02-15 at 04.01.02.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
