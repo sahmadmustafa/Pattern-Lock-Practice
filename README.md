@@ -6,3 +6,4 @@
 
 
 # Pattern-Lock-Practice
+Its a app that help you pratice Locking awith gestures handling.
