@@ -23,6 +23,3 @@ This is Example ios swift project!
 
 
 
-
-
-
