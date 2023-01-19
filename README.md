@@ -22,6 +22,3 @@ This is Example ios swift project!
 (Boiler plate for beginners)
 
 
-
-
-
